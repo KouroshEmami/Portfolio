@@ -12,7 +12,7 @@ Welcome! This portfolio showcases selected projects that demonstrate my skills i
 | [📊 Advanced SQL Analysis](https://github.com/KouroshEmami/Advanced-SQL-Analysis) | Wrote complex SQL queries to simulate KPIs for a large e-commerce dataset. | SQL · Data Modeling · BI Metrics |
 | [👥 Customer Segmentation](https://github.com/KouroshEmami/Customer-Segmentation) | Clustered users based on RFM analysis and K-Means to support personalized marketing. | Python · Pandas · Clustering · RFM |
 | [📉 Churn Analysis](https://github.com/KouroshEmami/ECommerce-Customer-Churn-Analysis-Identifying-At-Risk-Customers) | Identified customers at risk of churn using SQL and Python with visual storytelling. | SQL · EDA · Correlation Analysis · Seaborn |
-| [💊Automated Data Quality & Ontology Mapping for Clinical Trial Data](https://github.com/KouroshEmami/Automated-Data-Quality-Ontology-Mapping-for-Clinical-Trial-Data) | A comprehensive project showcasing automated data quality checks, ontology mapping to DrugBank, and governance documentation for clinical trial datasets. | Python · Data Cleaning · Ontology Mapping · Data Governance · Pandas · fuzzywuzzy · matplotlib · seaborn · Reporting |
+| [💊 Automated Data Quality & Ontology Mapping for Clinical Trial Data](https://github.com/KouroshEmami/Automated-Data-Quality-Ontology-Mapping-for-Clinical-Trial-Data) | A comprehensive project showcasing automated data quality checks, ontology mapping to DrugBank, and governance documentation for clinical trial datasets. | Python · Data Cleaning · Ontology Mapping · Data Governance · Pandas · fuzzywuzzy · matplotlib · seaborn · Reporting |
 ---
 
 ## 🧠 Skills Demonstrated
